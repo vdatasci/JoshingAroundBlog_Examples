@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fluffy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["carrots", "zucchini"]
+    }
+  },
+  {
+    "name": "Frisby",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "eggs"],
+      "dislikes": ["tuna", "chocolate"]
+    }
+  },
+  {
+    "name": "Rio",
+    "species" : "turtle",
+    "foods": {
+      "likes": ["shrimp", "tuna"],
+      "dislikes": ["zuzchini"]
+    }
+  }
+]
